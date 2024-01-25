@@ -27,6 +27,6 @@ Estudante de tecnologia e Freelancer a 1 ano, apaixonado por aprender tecnologia
 - [Minha Agência Digital](https://minhaagencia-cffaa8.netlify.app/)
 - [Meu Portfólio online](https://meuportifolio-96499c.netlify.app/)
 
-## Entre em contato comigo talves eu possa te ajudar 😃 :
+## Entre em contato comigo talvez eu possa te ajudar 😃 :
 -  Lucatavares321@hotmail.com
 -  [Meu contato](https://api.whatsapp.com/send?phone=5579999383543&text=Ol%C3%A1%20peguei%20seu%20contado%20no%20site)
