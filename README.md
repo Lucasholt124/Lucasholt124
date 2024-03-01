@@ -20,9 +20,7 @@
 Estudante de tecnologia e Freelancer a 1 ano, apaixonado por aprender tecnologias e ajudar pessoas com a programação
 
 ## Links dos meus sites online:
-- [Minha Calculadora](https://calculadora-587dac.netlify.app/)
-- [Minha Agência Digital](https://minhaagencia-cffaa8.netlify.app/)
-- [Meu Portfólio online](https://meuportifolio-96499c.netlify.app/)
+- [Meu Portfólio online]([https://meuportifolio-96499c.netlify.app/](https://portif-lio-master-ec52.vercel.app/))
 
 ## Entre em contato comigo talvez eu possa te ajudar 😃 :
 -  Lucatavares321@hotmail.com
