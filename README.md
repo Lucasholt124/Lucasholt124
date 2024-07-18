@@ -39,7 +39,7 @@
 Estudante de tecnologia e Freelancer a 1 ano, apaixonado por aprender tecnologias e ajudar pessoas com a programação
 
 ## Links dos meus sites online:
-- [Meu Portfólio online](https://portif-lio-master-ec52.vercel.app/)
+- [Meu Portfólio online](https://my-new-portifolio-navy.vercel.app/)
 
 ## Entre em contato comigo talvez eu possa te ajudar 😃 :
 -  Lucatavares321@hotmail.com
