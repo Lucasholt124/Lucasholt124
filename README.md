@@ -30,7 +30,7 @@
     
 </div><br/>
 
-Estudante de tecnologia e Freelancer a 1 ano, apaixonado por aprender tecnologias e ajudar pessoas com a programação
+Apaixonado por tecnologia e Freelancer a mais de 1 ano, aprender tecnologia e ajudar pessoas com a programação é a minha paixão
 
 ## Links dos meus sites online:
 - [Meu Portfólio online](https://my-new-portifolio-navy.vercel.app/)
