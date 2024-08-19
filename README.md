@@ -1,5 +1,8 @@
 <br clear="both">
 
+[![LinkedIn]([https://link_da_imagem_hospedada](https://www.linkedin.com/in/lucas-arag%C3%A3o-front-end/))]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/lucas-arag%C3%A3o-front-end/))
+
+
 <h1 align="center">Hey 👋 What's up?<br><br>Olá 👋 Tudo bem?</h1>
 
 ###
