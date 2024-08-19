@@ -1,8 +1,10 @@
+
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)]([https://www.linkedin.com/in/lucas-aragão-front-end/]
+
+
+
 <br clear="both">
-
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg/)]([https://www.linkedin.com/in/lucas-aragão-front-end/]
-
-
 
 <h1 align="center">Hey 👋 What's up?<br><br>Olá 👋 Tudo bem?</h1>
 
@@ -47,8 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href'https://www.linkedin.com/in/lucas-arag%C3%A3o-front-end/' img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg/" width="52" height="40" alt="linkedin 
-  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
@@ -72,5 +73,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasholt124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasholt124&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
 
