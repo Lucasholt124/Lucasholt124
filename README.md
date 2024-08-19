@@ -1,6 +1,6 @@
 
 
-[![LinkedIn]("https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg")]([https://www.linkedin.com/in/lucas-aragão-front-end/]
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg/)]([https://www.linkedin.com/in/lucas-aragão-front-end/]
 
 
 
