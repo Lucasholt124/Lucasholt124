@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">My name is Lucas Aragão and I am a Front-End Programmer, of UI/UX applications, with a focus on React Development.<br><br>Meu nome é Lucas Aragão e sou um Progamador Front-End , de aplicações UI/UX, com foco no Desenvolvimento React</h2>
+<h2 align="center">My name is Lucas Aragão and I am a FullStack Programmer, of UI/UX applications, with a focus on NextJS Development.<br><br>Meu nome é Lucas Aragão e sou um Progamador FullStack, de aplicações UI/UX, com foco no Desenvolvimento NextJS</h2>
 
 ###
 
