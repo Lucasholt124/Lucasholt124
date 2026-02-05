@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Olá 👋 Eu sou o Lucas Aragão</h1>
-  <p><b>Engenheiro de Software Full Stack | Especialista em IA & Automação</b></p>
+  <p><b>Engenheiro de Software Full Stack | Node.js • Next.js • TypeScript</b></p>
 </div>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor focado em construir produtos digitais de alto impacto. Especialista no ecossistema **TypeScript (Next.js & Node.js)**, dedico meu tempo criando soluções que unem design de elite (UI/UX) com arquiteturas de backend robustas e inteligentes.
+Sou um engenheiro de software focado em construir produtos digitais escaláveis e de alta performance. Especialista no ecossistema **TypeScript**, dedico meu tempo criando soluções que unem interfaces de elite (UI/UX) com arquiteturas de backend robustas.
 
-- 🛠️ **Founder do Freelinnk:** Plataforma SaaS de IA focada em conversão.
-- 💼 **Líder Técnico na Impulsione Web:** Transformando ideias em software real.
-- 🧠 **IA Enthusiast:** Implementando agentes, RAG e automação agêntica.
+- 🛠️ **Founder do Freelinnk:** Plataforma SaaS com integração de IA em produção.
+- 💼 **Líder Técnico na Impulsione Web:** Desenvolvimento de aplicações Full Stack e e-commerces.
+- 🧠 **AI Integration:** Implementando LLMs, agentes inteligentes e fluxos modernos de dados.
 
 ---
 
