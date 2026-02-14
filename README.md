@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/lucasaragao-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://wa.me/5579999383543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="mailto:lucatavares321@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://freelinnk.com"><img src="https://img.shields.io/badge/Portfolio-Global-6366f1?style=for-the-badge&logo=react&logoColor=white" /></a>
+    <a href="https://new-portfolio-delta-blond.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Global-6366f1?style=for-the-badge&logo=react&logoColor=white" /></a>
   </p>
 </div>
 
